@@ -41,7 +41,7 @@ commit_date="${year}-${month}-${day_padded}T${hour_padded}:${minute_padded}:${se
 random_msg="${messages[$RANDOM % ${#messages[@]}]}"
 
 # Make a dummy change (optional)
-echo "Log entry $RANDOM" >> dummy.txt
+#echo "Log entry $RANDOM" >> dummy.txt
 
 # Add and commit with date set
 git add .
