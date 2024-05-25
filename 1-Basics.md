@@ -4,7 +4,7 @@
 Python is like giving simple instructions to your computer in a way that almost feels like talking to a friend.
 
 ## Storing Information (Variables) 📦
-Think of variables as labeled boxes where you put stuff:
+#Think of variables as labeled boxes where you put stuff:
 
 ```python
 name = "Midhun"    # A word or text (called "string")
